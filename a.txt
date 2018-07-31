@@ -1,1 +1,3 @@
 a.txt data
+hello
+how are you
